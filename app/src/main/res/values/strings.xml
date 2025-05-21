@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Layouting Digiteam</string>
+    <string name="title_card">DigiTeam</string>
+    <string name="first_subtitle_card">Digital Together Everyone Achieve More</string>
+    <string name="second_subtitle_card">Jabar Digital Service</string>
+    <string name="title_profile_picture">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="subtitle_profile_picture">UI Designer</string>
+    <string name="jam_kerja_bulan_ini">Jam Kerja Bulan Ini</string>
+    <string name="detail_jam_kerja">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="jam_kerja">130.53 Jam</string>
+    <string name="batas_minimum_jam_kerja">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan_kamu">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+</resources>
